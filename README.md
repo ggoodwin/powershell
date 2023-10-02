@@ -1,6 +1,6 @@
 <div align="center">
-	<h1><img alt="AHK logo" src="https://github.com/ggoodwin/ahk/blob/master/ahk.png?raw=true" height="300" /><br />
-		AutoHotkey2 Scripts
+	<h1><img alt="PowerShell logo" src="https://github.com/ggoodwin/powershell/blob/master/powershell.png?raw=true" height="300" /><br />
+		PowerShell Scripts
 	</h1>
 
 <h3 align="center">
@@ -23,13 +23,13 @@
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://ggn.sh/skype)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://ggn.sh/tg)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ggn.sh/wa)
-[![GMan#0001](https://dcbadge.vercel.app/api/shield/179795086543028224)](https://discord.id/?prefill=179795086543028224)
+[![ggoodwin](https://dcbadge.vercel.app/api/shield/179795086543028224)](https://discord.id/?prefill=179795086543028224)
 </div>
 <br>
 
 <h2>Repo Info</h2>
 
-![Size](https://img.shields.io/github/languages/code-size/ggoodwin/ahk) [![Last Commit](https://img.shields.io/github/last-commit/ggoodwin/ahk)](https://github.com/ggoodwin/ahk/commits/master) [![License](https://img.shields.io/github/license/ggoodwin/ahk)](https://github.com/ggoodwin/ahk/blob/master/LICENSE.md)
+![Size](https://img.shields.io/github/languages/code-size/ggoodwin/powershell) [![Last Commit](https://img.shields.io/github/last-commit/ggoodwin/powershell)](https://github.com/ggoodwin/powershell/commits/master) [![License](https://img.shields.io/github/license/ggoodwin/powershell)](https://github.com/ggoodwin/powershell/blob/master/LICENSE.md)
 
 </div>
 
@@ -41,18 +41,18 @@ Uses a set of hotkeys to perform automated tasks.
 
 ### Install AutoHotkey2
 
-- [Download AHK2] (My Scripts use Version 2)
-- [Install AHK2]
+- [Download PowerShell] (My Scripts use Version 7)
+- [Install PowerShell]
 
 ## 💰 Usage
 
-Double Click `HotKeys.ahk`, as long as AutoHotkey2 is installed it will open as admin and show it is running in your system tray.
+Double Click `any.ps1` file or `any.bat` file, as long as PowerShell is installed it will open, using the `.bat` version will run as admin.
 
 - [Documentation & Tutorials] (Start Building Your Own Scripts)
 
 ## 💻 Dependencies
 
-- [AutoHotkey2]
+- [PowerShell]
 
 ## 🙇‍♂️ Issues and Contributing
 
@@ -73,15 +73,15 @@ Check out my [Changelog]
 Please read my [Code of Conduct] before contributing or engaging in discussions.
 
 <!-- Links -->
-[LICENSE]: https://github.com/ggoodwin/ahk/blob/master/LICENSE.md
-[CHANGELOG]: https://github.com/ggoodwin/ahk/blob/master/CHANGELOG.md
-[SECURITY]: https://github.com/ggoodwin/ahk/blob/master/SECURITY.md
-[FORK]: https://github.com/ggoodwin/ahk/fork
-[PULL REQUEST]: https://github.com/ggoodwin/ahk/compare
-[CODE OF CONDUCT]: https://github.com/ggoodwin/ahk/blob/master/CODE_OF_CONDUCT.md
-[CONTRIBUTING]: https://github.com/ggoodwin/ahk/blob/master/CONTRIBUTING.md
-[GITHUB ISSUES]: https://github.com/ggoodwin/ahk/issues
-[AutoHotkey2]: https://www.autohotkey.com/v2
-[Install AHK2]: https://www.autohotkey.com/docs/v2/howto/Install.htm
-[Download AHK2]: https://www.autohotkey.com/download/
-[Documentation & Tutorials]: https://www.autohotkey.com/docs/v2/index.htm
+[LICENSE]: https://github.com/ggoodwin/powershell/blob/master/LICENSE.md
+[CHANGELOG]: https://github.com/ggoodwin/powershell/blob/master/CHANGELOG.md
+[SECURITY]: https://github.com/ggoodwin/powershell/blob/master/SECURITY.md
+[FORK]: https://github.com/ggoodwin/powershell/fork
+[PULL REQUEST]: https://github.com/ggoodwin/powershell/compare
+[CODE OF CONDUCT]: https://github.com/ggoodwin/powershell/blob/master/CODE_OF_CONDUCT.md
+[CONTRIBUTING]: https://github.com/ggoodwin/powershell/blob/master/CONTRIBUTING.md
+[GITHUB ISSUES]: https://github.com/ggoodwin/powershell/issues
+[PowerShell]: https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3
+[Install PowerShell]: https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.3
+[Download PowerShell]: https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.3
+[Documentation & Tutorials]: https://learn.microsoft.com/en-us/powershell/

@@ -142,17 +142,17 @@ Not required, but if you want to include a link to this repo I would greatly app
 This guide is based on the **contributing.md**. [Make Your Own]!
 
 <!-- Links -->
-[CODE OF CONDUCT]: https://github.com/ggoodwin/ahk/blob/master/CODE_OF_CONDUCT.md
-[DOCUMENTATION]: https://github.com/ggoodwin/ahk/blob/master/README.md
+[CODE OF CONDUCT]: https://github.com/ggoodwin/powershell/blob/master/CODE_OF_CONDUCT.md
+[DOCUMENTATION]: https://github.com/ggoodwin/powershell/blob/master/README.md
 [MAKE YOUR OWN]: https://contributing.md/
 [LICE CAP]: https://www.cockos.com/licecap/
 [SILENT CAST]: https://github.com/colinkeenan/silentcast
 [BYZANZ]: https://github.com/GNOME/byzanz
-[GITHUB ISSUES]: https://github.com/ggoodwin/ahk/issues
-[NEW ISSUE]: https://github.com/ggoodwin/ahk/issues/new
-[BUG TRACKER]: https://github.com/ggoodwin/ahk/issues?q=label%3Abug
-[CONTRIBUTING]: https://github.com/ggoodwin/ahk/blob/master/CONTRIBUTING.md
-[FORK]: https://github.com/ggoodwin/ahk/fork
-[PULL REQUEST]: https://github.com/ggoodwin/ahk/compare
+[GITHUB ISSUES]: https://github.com/ggoodwin/powershell/issues
+[NEW ISSUE]: https://github.com/ggoodwin/powershell/issues/new
+[BUG TRACKER]: https://github.com/ggoodwin/powershell/issues?q=label%3Abug
+[CONTRIBUTING]: https://github.com/ggoodwin/powershell/blob/master/CONTRIBUTING.md
+[FORK]: https://github.com/ggoodwin/powershell/fork
+[PULL REQUEST]: https://github.com/ggoodwin/powershell/compare
 [EMAIL]: mailto:gh@ggn.dev
 [TELEGRAM]: https://ggn.sh/tg

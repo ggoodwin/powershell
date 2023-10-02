@@ -35,13 +35,13 @@
 
 ## 🌟 How it works
 
-Uses a set of hotkeys to perform automated tasks.
+Perform Common Tasks with a single click of a button.
 
 ## 📦 Installation and Usage
 
-### Install AutoHotkey2
+### Install PowerShell 7
 
-- [Download PowerShell] (My Scripts use Version 7)
+- [Download PowerShell]
 - [Install PowerShell]
 
 ## 💰 Usage
